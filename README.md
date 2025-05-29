@@ -26,7 +26,7 @@ Durante este proceso, trabajé con herramientas como Selenium, Postman y SQL, lo
 
 Estoy preparado para aplicar estos conocimientos y contribuir activamente a mejorar la calidad de los productos digitales.
 
-Here are some ideas to get you started:
+### <h2 align="center">_**LO QUE HAGO**_</h2> 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
