@@ -40,6 +40,7 @@ Análisis de bases de datos con SQL.
 
 Elaborar informes de calidad.
 
+### <h2 align="center">_**HERRAMIENTAS**_</h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
