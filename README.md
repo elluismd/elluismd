@@ -16,6 +16,16 @@
 </h3>
 <h2 align="center"> Acerca De Mi </h2>
 
+Soy una persona comprometida, colaborativa y con buenas habilidades de comunicación. 
+
+Cuento con una sólida formación en pruebas tanto manuales como automatizadas. 
+
+Me gradué como QA Engineer en TripleTen, donde desarrollé experiencia en control de calidad, testing de software, automatización de pruebas y análisis de requisitos.
+
+Durante este proceso, trabajé con herramientas como Selenium, Postman y SQL, lo que me permitió fortalecer mis competencias en pruebas funcionales y de APIs.
+
+Estoy preparado para aplicar estos conocimientos y contribuir activamente a mejorar la calidad de los productos digitales.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
