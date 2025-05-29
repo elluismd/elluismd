@@ -1,6 +1,19 @@
 # <h1 align="center"> _**¡Hola soy José Luis!. Un gusto.👋**_ </h1>  
-
-<!--
+<h4 align="center">
+  <b><a href="https://ossinsight.io/explore/">QA Enginner</a></b>
+  •
+  <b><a href="https://ossinsight.io/collections/open-source-database">SQL</a></b>
+  •
+  <b><a href="https://ossinsight.io/analyze/Ovilia">Postman</a></b>
+  •
+  <a href="https://ossinsight.io/analyze/pingcap/tidb">Python</a>
+  •
+  <a href="https://ossinsight.io/collections/open-source-database">Jira</a>
+  •
+  <a href="https://ossinsight.io/docs/workshop">Testing Manual</a>
+  •
+  <a href="https://twitter.com/OSSInsight">Pruebas API</a>
+</h3>
 **elluismd/elluismd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
