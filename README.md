@@ -28,6 +28,19 @@ Estoy preparado para aplicar estos conocimientos y contribuir activamente a mejo
 
 ### <h2 align="center">_**Mi Actividad**_</h2> 
 
+Documentar defectos encontrados durante las pruebas.
+
+Ejecutar pruebas manuales o automatizadas para validar el funcionamiento del software.
+
+Pruebas de API con Postman.
+
+Registrar los resultados de las pruebas.
+
+Análisis de bases de datos con SQL.
+
+Elaborar informes de calidad.
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
