@@ -14,7 +14,7 @@
   •
   <a href="https://twitter.com/OSSInsight">Pruebas API</a>
 </h3>
-# <h2 align="center"> Acerca de Mi </h2>
+# <h2 align="center"> Acerca De Mi </h2>
 
 Here are some ideas to get you started:
 
